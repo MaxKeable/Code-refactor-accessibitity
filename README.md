@@ -10,6 +10,7 @@ Horiseon is an informative website providing insight in the the topics Search en
   - [User Story](#user-story)
   - [Acceptance Criteria](#acceptance-criteria)
   - [Deployed application](#deployed-application)
+  - [Git Repo](#git-repo)
   - [Mock-Up](#mock-up)
   - [Screenshots.](#screenshots)
     - [Figure 1. Command line interface](#figure-1-command-line-interface)
@@ -44,7 +45,12 @@ THEN I find a concise, descriptive title
 ```
 
 ## Deployed application
+https://maxkeable.github.io/Code-refactor-accessibitity/
 
+## Git Repo
+
+https://github.com/MaxKeable/Code-refactor-accessibitity
+ 
 
 ## Mock-Up
 
@@ -63,7 +69,7 @@ The following image shows the web application's appearance and functionality:
 ![screen shot 3](./Assets/Screenshot%202023-06-03%20at%2012.01.47%20pm.png)
 
 ## Installation Process
-1. Horiseion is a deployed website accessed by this URL:
+1. Horiseion is a deployed website accessed by this URL: https://maxkeable.github.io/Code-refactor-accessibitity/
 
 ## Built With
 
